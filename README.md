@@ -1,5 +1,7 @@
 # netlify-vue-vars
 
+Update 1
+
 ## Project setup
 ```
 yarn install
